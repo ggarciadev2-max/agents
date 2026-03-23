@@ -1,0 +1,27 @@
+# Entornos virtuales
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Variables de entorno (NUNCA versionar)
+.env
+.env.local
+.env.*.local
+
+# Configuración personal de Claude (gitignored por diseño)
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Node
+node_modules/
+dist/
+.next/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
