@@ -1,0 +1,13 @@
+# Configuración personal (ejemplo)
+# Copia este archivo como CLAUDE.local.md y ajústalo a tus preferencias.
+# Este archivo está en .gitignore — NO lo versiones.
+
+## Preferencias personales
+- Responder siempre en español.
+- Preferir explicaciones paso a paso antes de escribir código.
+- Mostrar siempre el flujo completo de una funcionalidad antes de implementarla.
+
+## Entorno local
+- Puerto del backend: 8000
+- Puerto del frontend: 5173
+- Base de datos local: postgresql://localhost:5432/agents_dev
